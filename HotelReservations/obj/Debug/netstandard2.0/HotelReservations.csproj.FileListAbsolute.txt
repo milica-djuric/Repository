@@ -1,0 +1,9 @@
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\bin\Debug\netstandard2.0\HotelReservations.deps.json
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\bin\Debug\netstandard2.0\HotelReservations.dll
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\bin\Debug\netstandard2.0\HotelReservations.pdb
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\obj\Debug\netstandard2.0\HotelReservations.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\obj\Debug\netstandard2.0\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\obj\Debug\netstandard2.0\HotelReservations.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\obj\Debug\netstandard2.0\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\obj\Debug\netstandard2.0\HotelReservations.dll
+C:\Users\Korisnik\Desktop\HotelReservations\HotelReservations\obj\Debug\netstandard2.0\HotelReservations.pdb
