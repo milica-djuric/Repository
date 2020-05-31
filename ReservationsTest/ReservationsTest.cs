@@ -6,6 +6,7 @@ namespace ReservationsTest
 {
     public class ReservationsTest
     {
+
         [Theory]
         [InlineData(-4, 2, "Decline")]
         [InlineData(200, 400, "Decline")]
